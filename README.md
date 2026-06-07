@@ -383,22 +383,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Authors
-
-- **[Your Name]** - *Initial work* - [GitHub Profile](https://github.com/yourusername)
-- **[Team Member Name]** - *Contributor* - [GitHub Profile](https://github.com/teammember)
-
----
-
-## 📧 Contact
-
-**Project Link:** [https://github.com/yourusername/product-chain-distribution](https://github.com/yourusername/product-chain-distribution)
-
-**Email:** your.email@example.com
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ---
 
@@ -427,5 +412,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Made with ❤️ for DBMS Mini Project**
-
-*Last Updated: November 2025*
